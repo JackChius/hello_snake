@@ -17,5 +17,5 @@ for row in rows:
     for col_index in range(len(row)):
         row_list.append(str(row[col_index]))
     print(row_list)
-print('success to check for db')
+print('success to check for mysql_db')
 
